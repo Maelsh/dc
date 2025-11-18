@@ -1,3 +1,5 @@
+تنبيه هام كل ملفات الكود والتحليل للفكرة تمت بمساعدة claude ai 
+
 [analysis.md](https://github.com/user-attachments/files/23600790/analysis.md)
 # وثيقة التحليل الشاملة لمنصة Dueli
 
